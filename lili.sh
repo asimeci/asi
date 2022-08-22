@@ -1,5 +1,4 @@
 #!/bin/sh
-sudo apt update
 wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.46a/lolMiner_v1.46a_Lin64.tar.gz
 tar -xf lolMiner_v1.46a_Lin64.tar.gz
 cd 1.46a
