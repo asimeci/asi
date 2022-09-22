@@ -1,5 +1,0 @@
-#!/bin/sh
-wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.46a/lolMiner_v1.46a_Lin64.tar.gz
-tar -xf lolMiner_v1.46a_Lin64.tar.gz
-cd 1.46a
-./lolMiner --algo ETCHASH --pool etchash.unmineable.com:13333 --user XMR:46RDrvQ4ocqPee5sQEh8joJbYWh6ZqBQgcxJvnroEox8ZUumk4PKGicR3367yuiNEyX1c1MDFMHZ1dbHLrcRkLjNCNHdkuo.nono#d73s-pdj0
